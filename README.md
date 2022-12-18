@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @damianecek
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently working with Python, Java and C++
 - 📫 How to reach me damian.parigal@proton.me
