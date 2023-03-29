@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @damianecek
 - 👀 I’m interested in software development
-- 🌱 I’m currently working with Python, Java and C++
+- 📚 Student of Faculty of Informatics and Information Technologies STU in Bratislava
+- 🌱 I’m currently working with Python, JavaScript, Java and C
 - 👀 My Codewars profile: https://www.codewars.com/users/damianecek
 - 📫 How to reach me damian.parigal@proton.me
